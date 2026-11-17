@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Merkaz Pedagogi HaKfar HaYarok//Bingogia//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:בינגוגיה – מועדי המפגשים 2026–2027
+X-WR-TIMEZONE:Asia/Jerusalem
+BEGIN:VEVENT
+UID:bingogia-20261117@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:בינגוגיה – מפגש 1
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20261201@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:בינגוגיה – מפגש 2
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20261215@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:בינגוגיה – מפגש 3
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20261229@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:בינגוגיה – מפגש 4
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20270105@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:בינגוגיה – מפגש 5
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20270121@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:מליאת המרכז הפדגוגי (מליאה בלבד)
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20270202@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:בינגוגיה – מפגש 7
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20270216@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:בינגוגיה – מפגש 8
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20270316@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:בינגוגיה – מפגש 9
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bingogia-20270601@merkaz-pedagogi-hakfar.sites.tab.bot
+DTSTAMP:20261101T113440Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:בינגוגיה – מליאת סיכום
+DESCRIPTION:קורס בינגוגיה – פדגוגיה אנושית\, ב
+ ינה מלאכותית. מובילים: חגית ברגמן ואבי תי
+ רוש. שעות ומקום יפורסמו. https://merkaz-pedagogi-hakfar
+ .sites.tab.bot/#course-mi
+URL:https://merkaz-pedagogi-hakfar.sites.tab.bot/#course-mi
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
