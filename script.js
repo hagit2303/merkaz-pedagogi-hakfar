@@ -8,7 +8,8 @@
 var REG_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSdoZYWjnGsq8cGawnPKTwRwSnHYxWAxN_qA-TmIJpA7QG8shA/viewform';
 var COURSE_SITE_URL = '';
 
-var REG_LINKS  = { bingogia: REG_URL };
+var MATZPEN_URL = 'https://mpm.education.gov.il/rishum/pitronLemidaMurchav/2027/209214/0/7/true';  // ההרשמה המרכזית: פתרון למידה 209214
+var REG_LINKS  = { bingogia: MATZPEN_URL, 'bingogia-form': REG_URL };
 var SITE_LINKS = { bingogia: COURSE_SITE_URL };
 
 /* מועדי בינגוגיה (תשפ״ז). note = מפגש מיוחד שיודגש */
