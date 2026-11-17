@@ -297,3 +297,9 @@ main:focus,[tabindex="-1"]:focus{outline:none}
 @media (max-width:340px){.date-grid{grid-template-columns:1fr}}
 .tl-dates li.key{font-weight:800;color:var(--clay)}
 [hidden]{display:none!important}
+
+.m-label{margin:6px 0 0!important;font-weight:800;font-size:.9rem;color:var(--olive-dark)}
+.reg-box{display:block;border:2px solid var(--ink);border-radius:18px;padding:16px 18px;background:var(--paper)}
+.reg-title{margin:0 0 .3em;font-size:1.15rem}
+.reg-steps{margin:0 0 14px;padding-inline-start:1.3em}
+.reg-steps li{margin:.25em 0}

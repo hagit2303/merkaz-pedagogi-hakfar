@@ -82,7 +82,7 @@ var BINGOGIA_DATES = [
       title: 'בינגוגיה · פדגוגיה אנושית – בינה מלאכותית',
       href: '#course-mi',
       who: 'מובילים: חגית ברגמן ואבי תירוש',
-      details: '10 מפגשים · שעות ומקום יפורסמו',
+      details: '10 מפגשים · 14:25–16:20 · בניין המעבדות, מעבדת כימיה',
       when: '',
       dates: bingogiaDateLabels(),
       status: 'open'
